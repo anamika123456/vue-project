@@ -1,0 +1,1866 @@
+/*Media Query*/
+@media only screen and (max-width: 1720px) {
+  body {
+    font-size: 0.875rem;
+  }
+  nav.side-navbar .side-menu li a sup {
+    font-size: 10px;
+  }
+  .cap_profile ul li .dropdown-menu ul {
+    max-height: 400px;
+    overflow-y: auto;
+  }
+  h6, .h6,
+  label.labeltext {
+    font-size: 0.875rem;
+  }
+  .f-14 {
+    font-size: 0.75rem;
+  }
+  p, .f-15 {
+    font-size: 0.875rem;
+  }
+  h2 {
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+  }
+  h3 {
+    font-size: 1.125rem;
+  }
+  h4 {
+    font-size: 1.063rem;
+  }
+  h5 {
+    font-size: 1rem;
+  }
+  nav.side-navbar .side-menu li a {
+    font-size: 0.938rem;
+    padding: 7px 0;
+  }
+  nav.side-navbar .side-menu li a span {
+    margin-right: 12px;
+    width: 22px;
+    height: 22px;
+  }
+  .cap_logo {
+    max-width: 170px;
+    margin: 15px 0px 0px 18px;
+  }
+  .captail_wrap .cap_leftbar {
+    width: 14.5rem;
+  }
+  .captail_wrap .middle_section {
+    width: calc(100% - 14.5rem) !important;
+  }
+  .formCode-submit .border-btn {
+    font-size: 13px;
+    padding: 8px 15px;
+  }
+  .table thead tr th,
+  p.cur_result .f-18 {
+    font-size: 0.875rem;
+  }
+  .table tbody tr td,
+  .table thead tr th {
+    padding: 13px 10px;
+    font-size: 0.875rem;
+  }
+  .cap_newwallet {
+    padding: 20px 12px;
+  }
+  .main-menu {
+    padding-top: 0.9375rem;
+    margin-bottom: 0.9375rem;
+  }
+  .deposit_info .deposit_cell strong {
+    font-size: 1.625rem;
+  }
+  .more-horizontal svg.feather {
+    width: 16px;
+  }
+  .addphonenumber a i {
+    margin-right: 3px;
+    font-size: 0.8rem;
+  }
+  .cap_btn.large_btn,
+  .cap_btn {
+    padding: 5px 25px;
+    font-size: 0.875rem;
+    min-width: 130px;
+    height: 40px;
+  }
+  .inviteMemeberBtn {
+    padding: 0px 14px 0px 32px !important;
+  }
+  nav.side-navbar .side-menu li {
+    padding-bottom: 20px;
+  }
+  nav.side-navbar .side-menu li p {
+    top: -7px;
+    right: 27px;
+  }
+  .headerVerification {
+    font-size: 13px;
+  }
+  .planButton {
+    font-size: 14px;
+  }
+  .cap_profile ul li .dropdown-menu li a {
+    font-size: 15px;
+  }
+  .tableselectmenu.selectmenu.transactionselectmenu ul.dropdown_menu {
+    min-width: 145px;
+  }
+  .table.tableInvoice thead tr th,
+  .table.tableInvoice tbody tr td {
+    font-size: 0.75rem;
+  }
+  .helpCentreBox{
+    max-height: 416px;
+    min-height: 416px;
+  }
+  .quicklinkBox .quicklinkCircle {
+    margin-right: 24px;
+  }
+  .conversionsTopSearch .inputField{
+    width: 160px;
+  }
+  .conversionsRow .conversionsInput .inputFieldTwo {
+    width: calc(100% - 198px);
+  }
+  .conversionsRow .conversionsInput .selectFieldTwo {
+    width: 198px;
+  }
+  .selectDropMenu.paginationDropMenu .dropdown-menu{
+    min-width: 130px;
+  }
+  .selectDropMenu.paginationDropMenu .dropdown-menu li a{
+    font-size: 0.75rem;
+  }
+  .cardSec {
+    gap: 30px;
+  }
+  .cardSec .img-wrap {
+    width: 280px;
+  }
+  .cardSec .infoSec {
+    gap: 30px;
+  }
+}
+
+@media only screen and (min-width: 1400px) {
+  .col-xxl-1 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 8.333333%;
+    flex: 0 0 8.333333%;
+    max-width: 8.333333%;
+  }
+  .col-xxl-2 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 16.666667%;
+    flex: 0 0 16.666667%;
+    max-width: 16.666667%;
+  }
+  .col-xxl-3 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
+  .col-xxl-4 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+  }
+  .col-xxl-5 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 41.666667%;
+    flex: 0 0 41.666667%;
+    max-width: 41.666667%;
+  }
+  .col-xxl-6 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .col-xxl-7 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 58.333333%;
+    flex: 0 0 58.333333%;
+    max-width: 58.333333%;
+  }
+  .col-xxl-8 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 66.666667%;
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+  }
+  .col-xxl-9 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 75%;
+    flex: 0 0 75%;
+    max-width: 75%;
+  }
+  .col-xxl-10 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 83.333333%;
+    flex: 0 0 83.333333%;
+    max-width: 83.333333%;
+  }
+  .col-xxl-11 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 91.666667%;
+    flex: 0 0 91.666667%;
+    max-width: 91.666667%;
+  }
+  .col-xxl-12 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
+@media only screen and (min-width: 1600px) {
+  .col-xxxl-1 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 8.333333%;
+    flex: 0 0 8.333333%;
+    max-width: 8.333333%;
+  }
+  .col-xxxl-2 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 16.666667%;
+    flex: 0 0 16.666667%;
+    max-width: 16.666667%;
+  }
+  .col-xxxl-3 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
+  .col-xxxl-4 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+  }
+  .col-xxxl-5 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 41.666667%;
+    flex: 0 0 41.666667%;
+    max-width: 41.666667%;
+  }
+  .col-xxxl-6 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .col-xxxl-7 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 58.333333%;
+    flex: 0 0 58.333333%;
+    max-width: 58.333333%;
+  }
+  .col-xxxl-8 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 66.666667%;
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+  }
+  .col-xxxl-9 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 75%;
+    flex: 0 0 75%;
+    max-width: 75%;
+  }
+  .col-xxxl-10 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 83.333333%;
+    flex: 0 0 83.333333%;
+    max-width: 83.333333%;
+  }
+  .col-xxxl-11 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 91.666667%;
+    flex: 0 0 91.666667%;
+    max-width: 91.666667%;
+  }
+  .col-xxxl-12 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .card-dashboard .col-xxxl-3 {
+    -ms-flex: 0 0 29%;
+    flex: 0 0 29%;
+    max-width: 29%;
+  }
+  .card-dashboard .col-xxxl-9 {
+    -ms-flex: 0 0 71%;
+    flex: 0 0 71%;
+    max-width: 71%;
+  }
+}
+@media only screen and (max-width: 1800px){
+  .payments-card .btns-sec .cap_btn{
+    min-width: 150px;
+  }
+}
+@media only screen and (max-width: 1399px) {
+  .transItemWrap.active .itemBody {
+    height: 352px;
+}
+  .tablecustomWidth {
+    width: 1400px;
+    max-width: 1400px;
+  }
+  .balanceViewBox, .quicklinkBox, .transactionBox {
+    padding: 16px;
+  }
+  .balanceViewBox .heading {
+    margin-bottom: 42px;
+  }
+  .balanceViewBox .verified {
+    font-size: 13px;
+  }
+  .balanceViewBox .subheading {
+    margin-bottom: 4px;
+  }
+  .verificationSteps {
+    width: 30%;
+  }
+  .verificationContent {
+    width: 70%;
+  }
+  .quicklinkBox .heading {
+    margin-bottom: 36px;
+  }
+  .quicklinkBox .quicklinkCircle {
+    margin-right: 12px;
+  }
+  .quicklinkBox .quickLinkIcon {
+    width: 38px;
+    height: 38px;
+  }
+  .quicklinkBox .quickLinkIcon i {
+    width: 20px;
+  }
+  .quicklinkBox .quickLinkIcon img {
+    width: 18px;
+  }
+  .depositsLeftBox {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .depositsRightBox {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .balanceViewBox .balanceValueTwo{
+    padding-left: 15px;
+  }
+  .cap_btn.large_btn {
+    padding: 5px 5px;
+    font-size: 0.75rem;
+    min-width: 150px;
+  }
+  .status {
+    font-family: var(--regular);
+    padding: 0px 8px;
+    border-radius: 100px;
+    font-size: 0.75rem;
+  }
+  .mid_scroll_content {
+    margin: 0 !important;
+    padding: 0;
+  }
+  .section_title.mb-md-5 {
+    margin-bottom: 20px !important;
+  }
+  .pAdd p {
+    margin-bottom: 4px;
+  }
+  .form-control {
+    font-size: 0.875rem;
+  }
+  .f-16 {
+    font-size: 0.876rem;
+  }
+  h4 {
+    font-size: 1.125rem;
+  }
+  .relatedRequest {
+    margin: 8px 4%;
+  }
+  .depoist_fund .nav-tabs .nav-link {
+    font-size: 0.875rem;
+    padding: 4px 15px;
+  }
+  table.table.table-bordered tr td p {
+    line-height: 1.4;
+  }
+  .dropdown-menu .table tbody tr td,
+  .dropdown-menu .table thead tr th {
+    padding: 6px 10px;
+  }
+  .card-body h2 {
+    font-size: 0.875rem;
+  }
+  .section_title h5 {
+    font-size: 1rem;
+  }
+  nav.side-navbar .side-menu li a {
+    font-size: 0.813rem;
+    align-items: center;
+  }
+  h3 {
+    font-size: 1.3rem;
+  }
+  .newMegaDropDown .userNameImg {
+    width: 100px;
+    height: 100px;
+  }
+  .blueGradient {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .conversionsTopMainBox {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .conversionsTopBox {
+    padding: 16px;
+  }
+  .conversionsTopBox h6 {
+    padding-bottom: 4px;
+  }
+  .conversionsActivityBtn {
+    padding: 10px;
+  }
+  .conversionsTopSearch {
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+  .conversionsTopSearch input {
+    width: 110px;
+    font-size: 16px;
+  }
+  .conversionsTopSearch .inputField {
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
+  .conversionsTopSearch .inputField svg.feather {
+    width: 23px;
+  }
+  .customRange {
+    width: 100px;
+  }
+  .customProgress {
+    width: 100px;
+  }
+  .customCheckbox {
+    padding-left: 32px;
+    font-size: 13px;
+  }
+  .timeInput {
+    min-width: 103px;
+  }
+  .settingPage .customMax {
+    max-width: 170px;
+    padding-right: 20px;
+  }
+  .settingPage .calcWidth {
+    width: calc(100% - 170px);
+    padding-left: 25px;
+  }
+  .helpCentreScroll {
+    max-height: 300px;
+    min-height: 300px;
+  }
+  .helpCentreBox {
+    max-height: 390px;
+    min-height: 390px;
+}
+}
+@media only screen and (max-width: 1300px) {
+  .status svg.feather {
+    width: 15px;
+  }
+  .capitalLoginForm {
+    width: 400px;
+  }
+  .loginLogo {
+    position: relative;
+  }
+  .tablecustomWidth {
+    width: 1300px;
+    max-width: 1300px;
+  }
+  .pagination li a {
+    padding: 0 10px;
+    min-width: 25px;
+  }
+  .transactionBox .heading {
+    display: block;
+    margin-bottom: 10px;
+  }
+  .pagination .page-item .page-link{
+    padding: 4px 7px;
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 1199px) {
+  .cardSec{
+    flex-direction: column;
+  }
+  .cardSec .img-wrap {
+    width: 350px;
+    align-self: center;
+    max-width: 100%;
+}
+  .tablecustomWidth {
+    width: 1200px;
+    max-width: 1200px;
+  }
+  .defaultTab .links {
+    min-width: 180px;
+    padding: 0 15px;
+    height: 50px;
+    font-size: 1rem;
+  }
+  section.depoist_fund {
+    padding-top: 0 !important;
+  }
+  .settingPage {
+    flex-wrap: wrap;
+  }
+  .settingPage .calcWidth {
+    width: 100%;
+    padding-left: 0;
+  }
+  .settingPage .customMax {
+    max-width: 100%;
+    overflow-x: auto;
+    margin: 0 0 30px 0;
+    border-right: 0px !important;
+  }
+  .settingPage .customMax .settingTabs {
+    width: 100%;
+    display: flex;
+    white-space: nowrap;
+    padding: 1px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    margin: 0;
+  }
+  .settingTabs li a.active:before,
+  .settingTabs li a:hover:before {
+    width: 100%;
+    height: 3px;
+    left: 0;
+    top: inherit;
+    bottom: -2px;
+    right: 0;
+  }
+  .ml-0.container {
+    max-width: 100%;
+    padding: 0;
+  }
+  .settingTabs li a {
+    padding: 13px 20px;
+    border: 0;
+  }
+  .captail_wrap .cap_leftbar {
+    height: 56px;
+  }
+  .upload-btn-wrapper .btn {
+    padding: 8px 14px;
+  }
+  .registrationSteps h3 {
+    font-size: 23px;
+  }
+  nav.side-navbar .side-menu li a sup {
+    border: 1px solid var(--themecolor);
+  }
+  .cap_profile .notification svg path {
+    color: var(--white);
+  }
+  .cap_profile .notification .dropdown-menu svg path {
+    color: var(--themecolor);
+  }
+  nav.side-navbar .side-menu li a {
+    color: var(--themecolor);
+    display: flex;
+    width: 100%;
+  }
+  .cap_logo a {
+    padding: 10px 0 10px 15px;
+  }
+  .contentContainer {
+    padding: 15px;
+  }
+  .cap_btn.large_btn,
+  .cap_btn {
+    padding: 5px 15px;
+  }
+  .supportingdocument .btn {
+    font-size: 12px;
+  }
+  .formCode-submit.leftNav-bottom {
+    display: none;
+  }
+  body {
+    overflow: auto;
+    padding: 0;
+    background: var(--white);
+  }
+  .scrollbar.Mob {
+    height: 100%;
+    overflow-y: auto;
+    padding-bottom: 30px;
+  }
+  .cap_profile .notification ul li a#navbarDropdown {
+    line-height: 1.4;
+    margin: 1px 0 0;
+    position: relative;
+  }
+  .cap_profile .notification ul li a#navbarDropdown i svg {
+    width: 19px;
+  }
+  .leftCal-height {
+    height: calc(100vh - 80px);
+    overflow-y: auto;
+  }
+  .hideMob-title,
+  .leftDrop-down .nav-link.onlyweb-show,
+  .onltWEB {
+    display: none !important;
+  }
+  .onltMOb {
+    display: block !important;
+  }
+  .leftDrop-down .nav-link.onlyMoble-show {
+    display: flex !important;
+    color: #fff;
+  }
+  .cap_profile ul.leftDrop-down {
+    position: relative;
+    top: 0px;
+    left: 3px;
+    padding: 0;
+  }
+  .customMobMenu {
+    position: absolute;
+    right: 50px;
+  }
+  .cap_profile .notification {
+    right: 0px;
+    margin-top: 2px;
+    margin-right: 9px;
+  }
+  .hideMobile {
+    display: none !important;
+  }
+  .captail_wrap {
+    position: relative;
+  }
+  .pageoader img {
+    width: 80px;
+  }
+  .captail_wrap {
+    padding: 0px;
+  }
+  .left_scrollbar {
+    display: none !important;
+  }
+  .left_scrollbar.show {
+    display: block !important;
+    height: 100vh;
+    position: absolute;
+    z-index: 9999;
+    left: 0;
+    right: 0;
+    top: 55px;
+    background: var(--white);
+    width: 100%;
+    margin: 0 auto;
+  }
+  .captail_wrap .cap_leftbar {
+    position: sticky;
+    z-index: 7;
+    top: 0;
+  }
+  ul.nav-menu.leftDrop-down:before {
+    display: none;
+  }
+  .captail_wrap .cap_leftbar {
+    max-width: 100%;
+  }
+  .open-left-menu .left_scrollbar {
+    display: block;
+  }
+  .captail_wrap .middle_section {
+    margin: 0;
+  }
+  .navbar-toggler-icon {
+    width: 24px;
+    height: 24px;
+  }
+  .navbar-toggler {
+    padding: 1px 4px 2px 5px;
+  }
+  .resPOnsive-menu.navbar-light {
+    display: flex;
+    align-items: center;
+  }
+  .section_title {
+    text-align: left;
+  }
+  .cap_logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+  }
+  .cap_logo a img,
+  .registrationSteps .cap_logo a img {
+    width: 150px;
+  }
+  .leftDrop-down a span img {
+    width: 24px;
+    height: 24px;
+  }
+  nav.side-navbar .side-menu li a {
+    line-height: 1;
+    font-size: 13px;
+  }
+  nav.side-navbar .side-menu li a span {
+    top: 6.5px;
+    background-color: var(--themecolor);
+  }
+  .captail_wrap .middle_section {
+    width: 100% !important;
+  }
+  .captail_wrap .cap_rightbar {
+    width: 100%;
+  }
+  .cap_leftbar button.navbar-toggler {
+    background: var(--secondarycolor);
+    margin-right: 15px;
+  }
+  .captail_wrap {
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    overflow: auto;
+  }
+  section.top_searchbar {
+    display: none !important;
+  }
+  .captail_wrap .cap_leftbar {
+    width: 100%;
+  }
+  .marketData.table-responsive {
+    max-height: 100%;
+    overflow-x: auto;
+  }
+  .cap_profile ul li i.icon {
+    margin-left: auto;
+    top: auto;
+  }
+  .cap_profile .notification .dropdown-menu {
+    top: 36px;
+  }
+  .cap_profile ul li .dropdown-menu {
+    top: 39px;
+    right: 0;
+  }
+  .cap_profile ul li .dropdown-menu li a {
+    padding: 4px 0px 4px 15px;
+  }
+  .newMegaDropDown .userNameImg {
+    width: 80px;
+    height: 80px;
+  }
+  nav.side-navbar .side-menu li a {
+    padding: 2px 0;
+  }
+  .pageContent {
+    padding: 15px;
+  }
+  .conversionsPage .pageContent {
+    padding: 25px;
+  }
+  .verificationContent {
+    padding: 30px;
+  }
+  .messageBox .messageData {
+    padding: 16px;
+  }
+  .messageAvatar {
+    max-height: 50px;
+    max-width: 50px;
+  }
+  .dropdown-menu a.settingIcon svg path {
+    color: var(--themecolor);
+  }
+  .dropdown-menu a.settingIcon {
+    padding: 0;
+  }
+  .dropdown_menu_height {
+    max-height: 155px;
+    overflow-y: scroll;
+  }
+  .twoauthSteps .ico {
+    min-width: 80px;
+  }
+  .twoauthSteps .ico img {
+    width: 80px;
+  }
+  .conversionConfirmIcon{
+    width: 60px;
+    height: 60px;
+  }
+  .sessionExpired .sessionExpiredBox{
+    margin: 20px;
+  }
+}
+@media only screen and (min-width: 992px) {
+  .modal-xl {
+    max-width: 1200px;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .welcomeWrap .inner-box .img-wrap img{
+    width: 680px;
+    margin-left: auto;
+  }
+  .welcomeWrap .inner-box .content-sec{
+    padding-right: 40px;
+  }
+  .card-dashboard .right-sec .cryptoCards:first-child{
+    margin-top: 30px;
+  }
+  .userrolesImg {
+    min-width: 45px;
+    max-width: 45px;
+    max-height: 45px;
+  }
+  .accountUserImg {
+    min-width: 45px;
+    max-height: 45px;
+  }
+  .relatedRequest svg.feather {
+    padding-right: 5px;
+  }
+  h2 {
+    font-size: 1.063rem;
+  }
+  .deposit_info .deposit_cell a {
+    font-size: 14px;
+  }
+  .deposit_info .deposit_cell {
+    margin-right: 6px !important;
+  }
+  .depoist_fund .nav-tabs .nav-link {
+    padding: 10px 10px;
+  }
+  .submitButton {
+    padding-bottom: 20px;
+  }
+  .capitalLoginForm {
+    width: 100%;
+    padding: 20px;
+  }
+  .signupContent {
+    padding: 20px;
+  }
+  .registrationSteps h3 {
+    font-size: 17px;
+  }
+  p {
+    font-size: 14px;
+  }
+  .cap_btn.large_btn,
+  .customCheckbox {
+    font-size: 14px;
+  }
+  section {
+    padding: 15px;
+  }
+  .marketData table.table.table-bordered {
+    table-layout: inherit;
+  }
+  .fullLoader .pageoader {
+    height: 100%;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+  .partitioned .form-control {
+    padding: 4px 5px;
+  }
+  .fts {
+    width: 100%;
+    border: 0;
+    margin: 0 0 7px 0;
+    padding: 0;
+  }
+  .resourcesBox {
+    width: 33.33%;
+    margin-right: 20px;
+  }
+  .resourcesBox:last-child {
+    margin-right: 0;
+  }
+  .verificationContent .resourcesBox {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+  .verificationSteps {
+    width: 35%;
+  }
+  .verificationContent {
+    width: 65%;
+  }
+  .tooltip .tooltiptext {
+    width: 260px;
+  }
+  .destinationWallet .inputField {
+    width: 50%;
+  }
+  .destinationWallet .selectField {
+    width: 50%;
+  }
+  .blueGradient {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .conversionsTopMainBox {
+    padding-left: 12px;
+    padding-right: 0px;
+  }
+  .conversionsTopBox {
+    padding: 8px;
+  }
+  .conversionsActivityBtn {
+    padding: 8px;
+  }
+  .conversionsTopSearch .inputField {
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  .conversionsTopSearch .inputField img {
+    width: 40px;
+    height: 40px;
+  }
+  .conversionsTopSearch input {
+    font-size: 14px;
+    width: 90px;
+  }
+  .conversionsTopSearch .inputField svg.feather {
+    width: 21px;
+  }
+  .customRange {
+    width: 75px;
+  }
+  .customProgress {
+    width: 75px;
+  }
+  .conversionsTopSearch .inputField a {
+    margin-right: 8px;
+  }
+  .conversionsActivityBtn svg.feather {
+    width: 20px;
+  }
+  .pagination li a {
+    padding: 0 8px;
+    min-width: 30px;
+  }
+  .helpCentreScroll {
+    max-height: 285px;
+    min-height: 285px;
+  }
+  .helpCentreBox {
+    max-height: 415px;
+    min-height: 415px;
+  }
+  .six-cols-overflow {
+    max-height: 190px;
+  }
+  .six-cols .col {
+    -ms-flex: 0 0 33%;
+    flex: 0 0 33%;
+    max-width: 33%;
+  }
+  .transactionBox .heading {
+    display: flex;
+    margin-bottom: 24px;
+  }
+  .depositsLeftBox {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .depositsRightBox {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .balanceViewBox, .quicklinkBox, .transactionBox{
+    min-height: 150px;
+    max-height: 150px;
+  }
+  .balanceViewBox .heading{
+    margin-bottom: 32px;
+  }
+  .quicklinkBox .heading{
+    margin-bottom: 26px;
+  }
+  .searchTable .form-control{
+    width: 200px;
+  }
+  .tableDate input[type="date"]{
+    min-width: 130px;
+  }
+}
+@media only screen and (max-width: 820px){
+  .transHistory.withdraw .subHeadSec .dateSec{
+    flex: 1;
+  }
+  .transHistory.withdraw .subHeadSec .dateSec .tableDate{
+    width: 100%;
+  }
+  .transHistory.withdraw .subHeadSec .filtersSec{
+    width: 100%;
+  }
+  .transHistory.withdraw .subHeadSec .filtersSec .searchTable, .transHistory.withdraw .subHeadSec .filtersSec .searchTable .form-control{
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .form-control, .inputHeight, .selectmenu a.btn, .selectDropMenu .selectDropMenuLink, input[type="date"], .phnWrap .vue-tel-input{
+    height: 50px;
+  }
+  select.form-control{
+    height: 50px !important;
+  }
+  .ico {
+    top: 16px;
+    right: 0px;
+  }
+  .destinationdrop img.destinationdropImg {
+    width: 25px;
+  }
+  .currencyTab {
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding-bottom: 15px;
+    white-space: nowrap;
+  }
+  .defaultTab .links {
+    min-width: 140px;
+    padding: 0 15px;
+    font-size: 0.8rem;
+  }
+  .settingTabs li a {
+    padding: 6px 20px;
+  }
+  .settingPage .customMax {
+    margin: 0 0 15px 0;
+    padding-right: 0px;
+  }
+  .cap_btn.large_btn {
+    min-width: 120px;
+  }
+  .modal-header,
+  .modal-body,
+  .modal-footer {
+    padding: 18px;
+  }
+  .marketData .section_title {
+    margin-bottom: 0;
+  }
+  .CustomBlockWidth {
+    padding: 15px;
+  }
+  a.searchIcon {
+    padding: 5px 30px;
+  }
+  .CustomBlockWidth,
+  .section_title h5.support_title.colored {
+    max-width: 100%;
+  }
+  .content.p-3 {
+    padding: 13px 0 !important;
+  }
+  a.btn.account-change {
+    justify-content: space-between;
+  }
+  .supportTanb_btn {
+    flex-wrap: wrap;
+  }
+  table.table.table-bordered {
+    margin: 0;
+  }
+  .submitButton .cap_btn {
+    min-width: 100%;
+    margin: 0 0 13px 0 !important;
+  }
+  h3 {
+    font-size: 1.125rem;
+  }
+  .selectmenu ul.dropdown_menu {
+    left: 0;
+  }
+  .selectmenu ul.dropdown_menu.payoutauto_menu {
+    top: 45px;
+    width: 100%;
+  }
+  .loginLoader .pageoader {
+    width: 100%;
+  }
+  .capitalLoginForm form {
+    width: 100%;
+  }
+  .customMobile-layout-cls .capitalLoginForm {
+    flex-direction: column;
+    width: 100%;
+    display: block;
+    padding: 15px 20px 35px;
+  }
+  p.btn.d-flex.align-items-center {
+    justify-content: center;
+  }
+  .depoist_fund .nav-tabs li {
+    margin-bottom: 0;
+  }
+  .registrationSteps .os-viewport.os-viewport-native-scrollbars-invisible {
+    overflow: visible;
+  }
+  .authSteps.box-shadow.border.p-0 {
+    margin-bottom: 80px;
+  }
+  .marketData table.table.table-bordered tr:hover {
+    background: transparent;
+  }
+  .scrollbar::-webkit-scrollbar {
+    width: 5px;
+    height: 0px;
+  }
+  .v-select .vs__dropdown-menu::-webkit-scrollbar {
+    width: 5px;
+    height: 0px;
+  }
+  section.tab-content.incgMob {
+    padding: 0 8px 15px 8px;
+  }
+  .support_search h5.support_title {
+    margin: 10px 0px 4px 0px !important;
+  }
+  .forgotPassword {
+    align-items: flex-start !important;
+    padding: 15px;
+  }
+  .restPass_form p.alert {
+    text-align: center;
+  }
+  .rightside_answers h5 {
+    width: 100%;
+    margin-bottom: 13px;
+  }
+  .registrationSteps .authenticator_input .cap_btn {
+    width: auto;
+  }
+  .scrollbar.ticket {
+    height: calc(100vh - 337px);
+  }
+  .btC {
+    flex-direction: column;
+    text-align: center;
+  }
+  .alert {
+    text-align: left;
+    padding: 11px 7px;
+  }
+  .customWith-addd {
+    max-width: 800px;
+    margin: 20px auto 60px;
+  }
+  .mobleft-text .mb-left {
+    text-align: left !important;
+  }
+  .customWith-addd {
+    max-width: 100%;
+    margin: 5px auto 0;
+  }
+  .pageoader {
+    top: 0;
+    height: 100%;
+    overflow: hidden;
+  }
+  .addpadBottom-res {
+    padding-bottom: 60px !important;
+  }
+  .mob-center span {
+    width: 100%;
+  }
+  .loginLogo img {
+    margin: 0 auto;
+    display: block;
+  }
+  .mob-center {
+    text-align: center;
+  }
+  section.top_searchbar {
+    height: auto;
+    flex-wrap: wrap;
+  }
+  nav.cap_profile.navbar {
+    width: 100%;
+  }
+  .relatedRequestOuter {
+    padding: 0;
+  }
+  .tempLateMessage {
+    width: 100%;
+  }
+  .top_searchbar .section_title {
+    display: none;
+  }
+  section.top_searchbar {
+    padding: 0px;
+  }
+  .mobDir {
+    flex-wrap: wrap;
+  }
+  .card-body.pt-4.pb-4.pl-3.pr-3 {
+    padding: 11px !important;
+  }
+  .upload-btn-wrapper .btn {
+    padding: 7px 10px;
+  }
+  .customMobile-layout-cls .capitalLoginForm .capitalLoginFormMid {
+    width: 100%;
+  }
+  .registrationSteps .cap_btn {
+    width: 100%;
+  }
+  .loginLogo {
+    width: 200px;
+  }
+  .loginContainerss.whiteWithShadow {
+    overflow-y: auto;
+  }
+  .SupportBlockCenter button.cap_btn.large_btn.blue {
+    width: 100%;
+    margin-top: 10px;
+  }
+  .partitionedInput > div {
+    margin: 0 8px 0 0px;
+  }
+  .form-group.partitioned {
+    width: 270px;
+  }
+  .relatedRequest {
+    width: 48%;
+  }
+  .capitalLoginForm {
+    box-shadow: none;
+  }
+  .depoist_fund.profileInfo {
+    width: 100%;
+  }
+  .depoist_fund .nav-tabs li {
+    margin: 0 0 6px 0;
+    width: 100%;
+  }
+
+  .depoist_fund .col-4,
+  .depoist_fund .row .col-10,
+  .depoist_fund .col-5,
+  .depoist_fund .col-6,
+  .depoist_fund .col-11 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  .cap_profile .notification li a#navbarDropdown {
+    line-height: 1.4;
+    margin-top: 0;
+  }
+  .cap_profile .notification span.number {
+    top: -8px;
+    right: -10px;
+  }
+
+  .upload-btn-wrapper {
+    margin-top: 15px;
+  }
+  .selectAccount {
+    margin-bottom: 15px;
+  }
+  .registrationSteps h4 {
+    font-size: 16px;
+    white-space: normal;
+  }
+  .captail_wrap {
+    padding: 0;
+  }
+  .successMessage-report p,
+  .successMessage-report li {
+    font-size: 12px;
+  }
+
+  section.pt-5.pb-5 {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+  }
+  .deposit_info.d-flex.align-items-center.m_top.mb-3 {
+    flex-wrap: wrap;
+  }
+  .deposit_info .deposit_cell {
+    margin: 0 0 10px 0 !important;
+  }
+  section.depoist_fund {
+    padding: 12px 0px;
+  }
+
+  .d-flex.align-items-center.relative {
+    flex-wrap: wrap;
+  }
+
+  .balance {
+    width: 100%;
+    text-align: center;
+    margin: 0 0 20px 0;
+    background: var(--mid-Light);
+    padding: 14px 19px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .addfunds {
+    width: 100%;
+    margin: 0 0 14px 0;
+    text-align: center;
+  }
+  .totalR {
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+  }
+  .pagination {
+    float: none;
+    margin-bottom: 0;
+    justify-content: center;
+  }
+  .pagination li a {
+    min-width: 30px;
+    padding: 0 7px;
+  }
+  .pagination .paginationPage{
+    justify-content: center;
+  }
+  .pagination .page-item .page-link{
+    padding: 4px 7px;
+    text-align: center;
+  }
+  ul.pagination{
+    margin-top: 5px;
+  }
+  .totalR p {
+    width: 100%;
+    padding-bottom: 12px;
+  }
+  span.currency_name {
+    font-size: 14px;
+  }
+  span.firstName {
+    width: 15px;
+    height: 15px;
+    font-size: 10px;
+  }
+  span.inTableIcon {
+    width: 30px;
+    height: 30px;
+  }
+  .depoist_fund .nav-tabs .nav-link {
+    width: 100%;
+    display: block;
+    text-align: center;
+    min-width: 100%;
+    justify-content: center;
+  }
+
+    .customMobMenu {
+      padding: 1px 7px !important;
+    }
+    .hAuto {
+      height: auto !important;
+    }
+    .resourcesBox {
+      width: 100%;
+      margin-right: 0px;
+      margin-bottom: 15px;
+    }
+    .resourcesBox p br {
+      display: none;
+    }
+    .navbar-toggler-icon {
+      width: 22px;
+      height: 22px;
+    }
+    .verificationStepsMobile {
+      display: block;
+    }
+    .verificationSteps {
+      display: none;
+    }
+    .verificationBox {
+      display: block;
+    }
+    .verificationContent {
+      width: 100%;
+      padding: 20px;
+    }
+    .conversionsTopMainBox {
+      padding-left: 0;
+      padding-right: 0;
+    }
+    .conversionsTopSearch input {
+      width: 100%;
+    }
+    .conversionsTopBox {
+      border-left: 0;
+      padding: 0px 0px 10px 0px;
+    }
+    .conversionsActivityBtn {
+      margin-bottom: 12px;
+    }
+    .customRangeSlider {
+      margin: 10px 0px;
+    }
+    .customRange {
+      margin: 0;
+      width: 120px;
+    }
+    .customProgress {
+      width: 120px;
+      margin: 10px 0px;
+    }
+    .messageBox .messageData {
+      width: 100%;
+    }
+    .messageMainBox {
+      min-height: 300px;
+      max-height: 300px;
+    }
+    .helpCentreBox {
+      min-height: auto;
+    }
+    .helpCentreBox .helpTopicsBtn {
+      bottom: auto;
+      position: relative;
+    }
+    textarea.invoiceTextarea {
+      min-height: 120px;
+    }
+    .notificationsRow {
+      padding: 16px 35px 16px 20px;
+    }
+    .notificationsRow.unreadMessage::after {
+      right: 20px;
+    }
+    .selectDropMenu.payoutAccountDropMenu .dropdown-menu{
+      top: 50px !important;
+    }
+    .selectDropMenu .dropdown-menu li a{
+      padding: 13px 10px;
+    }
+    .selectDropMenu .selectDropMenuLink{
+      padding: 13px 10px;
+    }
+    .min-height-for-login-form .prev-update-btn-row{
+      margin-top: 40px !important;
+    }
+  }
+  @media (max-width: 640px) {
+    .cap_profile .notification .nav {
+      display: block;
+    }
+    .cap_profile .notification .nav .nav-item,
+    .nav .nav-item a {
+      padding-left: 0px;
+    }
+    .cap_profile .notification .message {
+      font-size: 13px;
+    }
+  }
+  @media only screen and (max-width: 575px) {
+    .welcomeWrap{
+      padding: 16px;
+    }
+    .destinationdrop.selectmenu.payoutAccount ul.dropdown_menu {
+      top: 101px;
+    }
+    .balanceViewBox,
+    .quicklinkBox,
+    .transactionBox {
+      min-height: 90px;
+      max-height: 100%;
+    }
+    .balanceViewBox .balanceValueTwo {
+      border-left: 0px !important;
+    }
+
+    .ipInput {
+      width: 100%;
+    }
+    .bankaccountContent {
+      padding-left: 0px;
+    }
+    .selectmenu.accountdobmenu {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+    .selectmenu a.btn {
+      font-size: 14px;
+      padding: 13px 10px;
+    }
+    .selectDropMenu.payoutAccountDropMenu .dropdown-menu{
+      top: 100px !important;
+    }
+    .selectDropMenu .selectDropMenuLink{
+      font-size: 14px;
+      padding: 13px 10px;
+    }
+    .conversionsRow .conversionsInput .selectField {
+      width: 115px;
+    }
+    .conversionsRow .conversionsInput .inputFieldTwo{
+      width: 100%;
+    }
+    .conversionsRow .conversionsInput .selectFieldTwo{
+      width: 100%;
+      border-left: 0px !important;
+      border-top: 1px solid var(--bordercolor);
+    }
+    .conversionsRow .conversionsInput .selectField.selectCurrency {
+      width: 220px;
+    }
+    .conversionsRow .conversionsInput .inputField {
+      width: calc(100% - 115px);
+      overflow: hidden;
+    }
+    .defaultTab .links {
+      min-width: 100px;
+      padding: 0 15px;
+      height: 40px;
+    }
+  
+    .destinationWallet .inputField {
+      width: 40%;
+    }
+    .destinationWallet .selectField {
+      width: 60%;
+    }
+    .filter_dropdown_menu {
+      width: 220px;
+    }
+    .filter_dropdown_menu_right {
+      right: 0;
+      left: auto;
+      width: 235px;
+    }
+    .currencyTab li a {
+      font-size: 1rem;
+      padding-bottom: 5px;
+    }
+    .cap_btn.large_btn {
+      margin-bottom: 15px;
+    }
+    .top_searchbar .section_title {
+      text-align: center;
+    }
+    .middleBox .otpverification {
+      width: 100%;
+    }
+    .relatedRequest {
+      width: 100%;
+      margin: 0 0 8px 0;
+    }
+    .deposit_info .deposit_cell.active:before {
+      display: none;
+    }
+    .text-right.cur_value {
+      width: calc(100% - 90px);
+    }
+  
+    .cursiveright.cur_value {
+      width: 120px;
+    }
+    .authenticator_input {
+      flex-wrap: wrap;
+    }
+    .authenticator_input .cap_btn {
+      margin: 10px 0 0 0 !important;
+    }
+    .verifyDocsTitle {
+      border-top: 1px dashed var(--bordercolor);
+    }
+    .selectmenu.historyselectmenu {
+      width: 100%;
+    }
+  
+    .conversionsRow .conversionsInput .currentBalance .form-control {
+      width: 100%;
+    }
+    .six-cols .col {
+      -ms-flex: 0 0 50%;
+      flex: 0 0 50%;
+      max-width: 50%;
+    }
+    .helpCentre .paginationPage .selectmenu {
+      margin-left: 0.5rem !important;
+      margin-bottom: 0px !important;
+      margin-top: 0px !important;
+    }
+    .balanceViewBox .heading {
+      margin-bottom: 24px;
+    }
+    .quicklinkBox .quicklinkCircle {
+      margin-right: 24px;
+    }
+    .partitioned input.form-control {
+      width: 40px;
+      height: 45px;
+    }
+    .form-group.partitioned > div > div {
+      margin-right: 10px;
+    }
+    .form-group.includeIco.searchTable {
+      width: 100%;
+    }
+    .searchTable .form-control {
+      width: 100%;
+    }
+    .paginationArrow{
+      width: 32px;
+      height: 32px;
+    }
+    .conversionsPercent{
+      flex-direction: column-reverse;
+    }
+    .settingPage .accountSetting{
+      padding: 20px;
+    }
+    .form-control-file span{
+      padding: 5px 15px 5px 10px;
+      margin-left: 10px;
+    }
+    .dropdownSearch{
+      margin: 4px;
+      width: calc(100% - 8px);
+      padding: 4px 8px;
+    }
+    .helpCentreHeading .searchTable .form-control{
+      height: 40px;
+      padding: 4px 12px;
+    }
+    .ticketListText{
+      line-height: normal;
+      padding-top: 3px;
+      padding-bottom: 3px;
+    }
+    .helpCentreBoxLink{
+      padding-top: 1.2rem;
+      padding-bottom: 1.2rem;
+    }
+    .helpTopicBox span.myProfileImg{
+      width: 50px;
+      height: 50px;
+    }
+    .helpTopicBox span.depositImg{
+      width: 39px;
+      height: 50px;
+    }
+    .helpTopicBox span.accountSettingsImg{
+      width: 51px;
+      height: 50px;
+    }
+    .helpTopicBox span.withdrawalsImg{
+      width: 40px;
+      height: 50px;
+    }
+    .helpTopicBox span.conversionsImg{
+      width: 42px;
+      height: 50px;
+    }
+    .helpTopicBox span.reportsImg{
+      width: 40px;
+      height: 50px;
+    }
+    .helpTopicBox span.othersImg{
+      width: 50px;
+      height: 50px;
+    }
+  }
+  @media only screen and (max-width: 479px) {
+    .conversionsPercent li:first-child {
+      margin-left: 0px;
+    }
+    .conversionsRow .conversionsInput .selectField .selectmenu .cryptoCoin {
+      width: 30px;
+    }
+    .modalprocessingFees h6,
+    .modalprocessingFees p {
+      width: 100% !important;
+    }
+    .spPgae .text-center .rightside_answers p {
+      text-align: left;
+    }
+
+
+
+
+  .content .f-13 {
+    line-height: 1;
+  }
+  h5 {
+    font-size: 0.876rem;
+  }
+  input.form-control:focus ~ .labeltext,
+  input.form-control:not(:placeholder-shown) ~ .labeltext,
+  select.form-control:focus ~ .labeltext,
+  select.form-control:not([value=""]):valid ~ .labeltext,
+  .form-group.active input.form-control ~ .labeltext,
+  .form-group.active select.form-control ~ .labeltext,
+  .personalInfo .form-group.active label.labeltext {
+    font-size: 10px;
+  }
+  .cap_profile ul li .onlyMoble-show span {
+    width: 28px;
+    height: 28px;
+    margin-right: 3px;
+    font-size: 11px;
+  }
+  .cap_profile ul.leftDrop-down {
+    padding: 0px;
+  }
+  .cap_logo a img {
+    width: 140px;
+  }
+  .twoauthSteps .twoauthStepsInner {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .uploadShowMenu {
+    right: 0;
+    max-width: 100%;
+  }
+  .authSteps .head {
+    text-align: center;
+  }
+  .twoauthSteps .ico {
+    margin-right: 0;
+  }
+  .twoauthSteps .desc {
+    width: 100%;
+    padding: 0;
+    text-align: center !important;
+  }
+  .text-right.cur_value {
+    width: 100%;
+    margin: 14px 0;
+  }
+  .section_title h5 {
+    font-size: 15px;
+    line-height: 1.4;
+  }
+  .blockSection h4 {
+    font-size: 17px;
+  }
+  .cap_profile .notification .dropdown-menu {
+    right: 0;
+    left: -188px;
+  }
+  .cap_profile .notification .dropdown-menu .currencyTab {
+    padding-bottom: 0;
+  }
+  .cap_profile .notification .dropdown-menu:before {
+    display: none;
+  }
+
+  /* .dropdown-menu {
+    top: 23px;
+  } */
+
+  .authenticator_input .authenticator_inputCode {
+    margin: 0px auto;
+  }
+  .customMobMenu {
+    right: 53px;
+  }
+  .notification svg.feather {
+    width: 18px;
+  }
+  .cap_profile ul li .dropdown-menu {
+    right: -57px;
+    width: 320px;
+  }
+  .cap_profile .notification {
+    margin-top: 4px;
+  }
+  .six-cols .col {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .transactionBox .heading {
+    display: block;
+    margin-bottom: 10px;
+  }
+  .depositBankList li {
+    display: block;
+  }
+  .depositBankList li p:last-child {
+    text-align: left;
+  }
+  .notificationsRow {
+    padding: 16px 32px 16px 16px;
+  }
+  .notificationsRow span {
+    min-width: 38px;
+    min-height: 38px;
+    max-width: 38px;
+    max-height: 38px;
+  }
+  .notificationsRow.unreadMessage::after {
+    margin: 0px;
+    top: 23px;
+    right: 14px;
+  }
+  .authenticatorBtn {
+    display: block;
+    margin-right: 0px;
+    margin: 0px auto;
+    width: 183px;
+  }
+}
